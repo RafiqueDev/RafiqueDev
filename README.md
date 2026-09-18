@@ -1,98 +1,136 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Muhammad%20Rafique&fontSize=48&fontColor=e2e8f0&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20Mobile%20Developer%20%E2%80%94%20Building%20SaaS%20ERP%2FPOS%20for%20Pakistani%20Businesses&descAlignY=58&descSize=16&descColor=94a3b8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:db2777,100:0891b2&height=220&section=header&text=Muhammad%20Rafique&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%26%20Mobile%20Developer&descAlignY=52&descSize=18&descColor=ffe4f5" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=DB2777&center=true&vCenter=true&width=650&lines=Building+multi-tenant+SaaS+ERP%2FPOS+for+Pakistan;MERN+%2B+Flutter+%2B+real+business+logic;QuickBooks-grade+UX%2C+built+from+scratch" />
 
 <br/>
 
-<a href="https://github.com/RafiqueDev"><img src="https://img.shields.io/badge/GitHub-RafiqueDev-1e2327?style=for-the-badge&logo=github&logoColor=e2e8f0&labelColor=0f172a" /></a>
-<a href="mailto:mrafique0658@gmail.com"><img src="https://img.shields.io/badge/Email-mrafique0658%40gmail.com-1e2327?style=for-the-badge&logo=gmail&logoColor=e2e8f0&labelColor=0f172a" /></a>
-<img src="https://img.shields.io/badge/Based%20in-Karachi%2C%20Pakistan-1e2327?style=for-the-badge&logo=googlemaps&logoColor=e2e8f0&labelColor=0f172a" />
+<a href="https://github.com/RafiqueDev"><img src="https://img.shields.io/badge/GitHub-RafiqueDev-7c3aed?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:mrafique0658@gmail.com"><img src="https://img.shields.io/badge/Email-mrafique0658%40gmail.com-db2777?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Karachi%2C%20Pakistan-0891b2?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=RafiqueDev&style=for-the-badge&color=f59e0b&label=PROFILE+VIEWS" />
 
 </div>
 
 <br/>
 
-## About
+## 💡 About
 
 I design and build **multi-tenant SaaS ERP and POS systems for Pakistani businesses** — full-stack MERN applications with real business logic underneath the UI: multi-branch inventory, role-based access control, tenant-isolated data, PKR-native formatting, and audit trails, benchmarked against tools like QuickBooks Desktop for the UX bar. I also build the mobile side of these products in Flutter.
 
-I care less about stacking technologies and more about whether the business logic actually holds up — invoice numbers that can't drift, billing engines with a single source of truth, and authorization checks that are enforced server-side, not just hidden in the UI.
+I care less about stacking technologies and more about whether the business logic actually holds up — invoice numbers that can't drift, billing engines with a single source of truth, and authorization checks enforced server-side, not just hidden in the UI.
 
-**Currently building:** production-grade ERP/POS platforms for the timber wholesale and retail sector, and a general-purpose multi-tenant POS/ERP for wholesale & retail businesses.
+> 🔨 **Currently building:** production-grade ERP/POS platforms for the timber wholesale and retail sector, and a general-purpose multi-tenant POS/ERP for wholesale & retail businesses.
 
 <br/>
 
-## Tech Stack
+## 🎨 Tech Stack
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center" bgcolor="#1a0b2e">
 
 **Frontend**
+<br/><br/>
+<img src="https://img.shields.io/badge/React-7c3aed?style=flat-square&logo=react&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Next.js-7c3aed?style=flat-square&logo=nextdotjs&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/TypeScript-7c3aed?style=flat-square&logo=typescript&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Tailwind-7c3aed?style=flat-square&logo=tailwindcss&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
+</td>
+<td align="center" bgcolor="#2e0b26">
 
 **Backend**
+<br/><br/>
+<img src="https://img.shields.io/badge/Node.js-db2777?style=flat-square&logo=nodedotjs&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Express-db2777?style=flat-square&logo=express&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/.NET-db2777?style=flat-square&logo=dotnet&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/PHP-db2777?style=flat-square&logo=php&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,php" />
+</td>
+<td align="center" bgcolor="#0b1f2e">
 
 **Mobile**
+<br/><br/>
+<img src="https://img.shields.io/badge/Flutter-0891b2?style=flat-square&logo=flutter&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Dart-0891b2?style=flat-square&logo=dart&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
+</td>
+<td align="center" bgcolor="#1f2e0b">
 
-**Databases**
+**Data & Infra**
+<br/><br/>
+<img src="https://img.shields.io/badge/MongoDB-16a34a?style=flat-square&logo=mongodb&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/PostgreSQL-16a34a?style=flat-square&logo=postgresql&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Docker-16a34a?style=flat-square&logo=docker&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Socket.IO-16a34a?style=flat-square&logo=socketdotio&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,redis" />
-
-**Tools & Infra**
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,vscode,socketio" />
-
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
-## Featured Projects
+## 🚀 Featured Projects
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
 
 ### 🧾 Smart POS ERP
-**Enterprise-grade multi-tenant SaaS POS + ERP platform for wholesale and retail businesses**
+<img src="https://img.shields.io/badge/status-active-16a34a?style=flat-square"/> <img src="https://img.shields.io/badge/type-multi--tenant%20SaaS-7c3aed?style=flat-square"/>
 
-Production-oriented system with a full offline-capable POS, multi-branch inventory, and a completely separate developer super-admin panel from the company-facing ERP dashboard.
+**Enterprise-grade multi-tenant POS + ERP** for wholesale and retail businesses, with a fully separate developer super-admin panel and company-facing ERP dashboard.
 
-| | |
-|---|---|
-| **Stack** | React 18 · Vite · Tailwind · Redux Toolkit · Node.js · Express · Socket.IO · MongoDB · Redis · BullMQ · Docker · React Native |
-| **Architecture** | Nginx → React/Vite frontend + Express/Socket.IO backend → MongoDB, with Redis/BullMQ for queues and caching; mobile app talks to the same API |
-| **Key capabilities** | Barcode-driven POS with offline hold/resume, real-time stock + dashboard via Socket.IO, multi-tenant data isolation enforced at the middleware layer (never trusted from the client), PWA offline sync (IndexedDB) for web and SQLite offline sync for mobile, JWT access + refresh token auth with RBAC and audit logging, license/activation management for the dev-admin panel |
+`React 18` `Vite` `Redux Toolkit` `Node.js` `Socket.IO` `MongoDB` `Redis` `BullMQ` `Docker` `React Native`
 
-**Repo:** [github.com/RafiqueDev/smart-pos-erp](https://github.com/RafiqueDev/smart-pos-erp)
+**Highlights**
+- 🔴 Real-time stock + dashboard via Socket.IO
+- 📴 Offline-capable POS — IndexedDB (web) + SQLite (mobile), auto-sync
+- 🔐 Tenant isolation enforced at the middleware layer, never trusted from the client
+- 🎟️ License/activation management for the dev-admin panel
 
----
+**[→ github.com/RafiqueDev/smart-pos-erp](https://github.com/RafiqueDev/smart-pos-erp)**
+
+</td>
+<td width="50%" valign="top">
 
 ### 🪵 Timber Storage Pro
-**Full-stack, mobile-first, multi-branch Timber Warehouse & Storage Management System**
+<img src="https://img.shields.io/badge/status-active-16a34a?style=flat-square"/> <img src="https://img.shields.io/badge/tests-46%20passing-db2777?style=flat-square"/>
 
-Tracks containers, stock, and storage rent (daily/monthly with an editable override), generates A5 invoices, handles partial payments and party statements, and enforces warehouse-scoped role-based access on every route — not just in the UI.
+**Full-stack, mobile-first Timber Warehouse & Storage system** — containers, storage rent billing, invoicing, and a self-service party portal.
 
-| | |
-|---|---|
-| **Stack** | React 18 · Vite · Tailwind · React Router · Node.js · Express · SQLite (better-sqlite3) · JWT · bcrypt |
-| **Architecture** | Single central billing engine (`services/billing.js`) is the *only* place rent is ever calculated, so the dashboard, invoices, and reports can never drift apart from each other |
-| **Key capabilities** | A self-service party portal with time-boxed magic-link access on a fully separate auth path from the admin app, banked-credit adjustments that auto-apply oldest-first on a party's next invoice, atomic concurrency-safe stock decrements, immutable invoice line-item snapshots, and a security-hardening pass that closed real warehouse-scoping authorization gaps |
-| **Verified** | **46 automated tests** (`node --test`) covering billing math, auth/authorization, the party portal end-to-end, and undo/delete safety rules |
+`React 18` `Vite` `React Router` `Node.js` `Express` `SQLite` `JWT` `bcrypt`
 
-**Repo:** [github.com/RafiqueDev/timber-storage-pro](https://github.com/RafiqueDev/timber-storage-pro)
+**Highlights**
+- 🧮 One central billing engine — dashboard, invoices & reports can never drift apart
+- 🔗 Time-boxed magic-link party portal on a fully separate auth path
+- 💳 Banked-credit adjustments auto-applied oldest-first
+- 🛡️ Security-hardening pass closed real warehouse-scoping gaps
+
+**[→ github.com/RafiqueDev/timber-storage-pro](https://github.com/RafiqueDev/timber-storage-pro)**
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-## GitHub Activity
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RafiqueDev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RafiqueDev&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RafiqueDev&show_icons=true&theme=synthwave&hide_border=true&bg_color=00000000&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RafiqueDev&theme=synthwave&hide_border=true&background=00000000" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafiqueDev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafiqueDev&layout=compact&theme=synthwave&hide_border=true&bg_color=00000000&langs_count=8" height="165"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=RafiqueDev&theme=radical&no-frame=true&margin-w=8&row=1" height="100"/>
 
 </div>
 
@@ -100,16 +138,16 @@ Tracks containers, stock, and storage rent (daily/monthly with an editable overr
 
 <div align="center">
 
-### Contribution Graph
+### 🐍 Contribution Graph
 
 <img src="https://raw.githubusercontent.com/RafiqueDev/RafiqueDev/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
-<sub>Generated automatically on every push via the GitHub Action in <code>.github/workflows/snake.yml</code> — no manual updates needed.</sub>
+<sub>Auto-regenerated on every push via <code>.github/workflows/snake.yml</code> — nothing to update by hand.</sub>
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:db2777,100:7c3aed&height=120&section=footer" width="100%"/>
 </div>
