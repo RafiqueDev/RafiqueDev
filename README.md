@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:db2777,100:0891b2&height=220&section=header&text=Muhammad%20Rafique&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%26%20Mobile%20Developer&descAlignY=52&descSize=18&descColor=ffe4f5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7c3aed,50:db2777,100:0891b2&amp;height=220&amp;section=header&amp;text=Muhammad%20Rafique&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Full-Stack%20%26%20Mobile%20Developer&amp;descAlignY=52&amp;descSize=18&amp;descColor=ffe4f5" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=DB2777&center=true&vCenter=true&width=650&lines=Building+multi-tenant+SaaS+ERP%2FPOS+for+Pakistan;MERN+%2B+Flutter+%2B+real+business+logic;QuickBooks-grade+UX%2C+built+from+scratch" />
 
